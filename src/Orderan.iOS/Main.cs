@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace Orderan.iOS
+namespace Juniansoft.Orderan.iOS
 {
     public class Application
     {

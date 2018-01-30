@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 
 using Foundation;
+using Juniansoft.Orderan.XamForms;
 using UIKit;
 
-namespace Orderan.iOS
+namespace Juniansoft.Orderan.iOS
 {
     [Register("AppDelegate")]
     public partial class AppDelegate : global::Xamarin.Forms.Platform.iOS.FormsApplicationDelegate

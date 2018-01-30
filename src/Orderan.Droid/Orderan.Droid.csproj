@@ -7,7 +7,7 @@
     <ProjectGuid>{083FB9BF-11A6-4D32-9533-0E1091130BD1}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
-    <RootNamespace>Orderan.Droid</RootNamespace>
+    <RootNamespace>Juniansoft.Orderan.Droid</RootNamespace>
     <AssemblyName>Orderan.Droid</AssemblyName>
     <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
     <AndroidApplication>True</AndroidApplication>
@@ -108,9 +108,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Orderan\Orderan.csproj">
+    <ProjectReference Include="..\Orderan.XamForms\Orderan.XamForms.csproj">
       <Project>{699EC9F6-DC45-4890-A94C-9FB05740AD8F}</Project>
-      <Name>Orderan</Name>
+      <Name>Orderan.XamForms</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

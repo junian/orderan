@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace Orderan
+namespace Juniansoft.Orderan.XamForms
 {
     public partial class OrderanPage : ContentPage
     {

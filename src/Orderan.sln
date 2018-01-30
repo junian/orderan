@@ -1,13 +1,13 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orderan", "Orderan\Orderan.csproj", "{699EC9F6-DC45-4890-A94C-9FB05740AD8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orderan.XamForms", "Orderan.XamForms\Orderan.XamForms.csproj", "{699EC9F6-DC45-4890-A94C-9FB05740AD8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orderan.iOS", "iOS\Orderan.iOS.csproj", "{159806CB-8350-4695-BFC5-5B5927EF5D29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orderan.iOS", "Orderan.iOS\Orderan.iOS.csproj", "{159806CB-8350-4695-BFC5-5B5927EF5D29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orderan.Droid", "Droid\Orderan.Droid.csproj", "{083FB9BF-11A6-4D32-9533-0E1091130BD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orderan.Droid", "Orderan.Droid\Orderan.Droid.csproj", "{083FB9BF-11A6-4D32-9533-0E1091130BD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orderan.UITests", "UITests\Orderan.UITests.csproj", "{06432952-9A81-4712-A6A2-31061D3FBBA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orderan.UITests", "Orderan.UITests\Orderan.UITests.csproj", "{06432952-9A81-4712-A6A2-31061D3FBBA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

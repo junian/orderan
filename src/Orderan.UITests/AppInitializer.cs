@@ -4,7 +4,7 @@ using System.Linq;
 using Xamarin.UITest;
 using Xamarin.UITest.Queries;
 
-namespace Orderan.UITests
+namespace Juniansoft.Orderan.UITests
 {
     public class AppInitializer
     {

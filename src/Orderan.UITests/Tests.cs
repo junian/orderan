@@ -5,7 +5,7 @@ using NUnit.Framework;
 using Xamarin.UITest;
 using Xamarin.UITest.Queries;
 
-namespace Orderan.UITests
+namespace Juniansoft.Orderan.UITests
 {
     [TestFixture(Platform.Android)]
     [TestFixture(Platform.iOS)]

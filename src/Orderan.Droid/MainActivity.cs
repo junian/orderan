@@ -7,8 +7,9 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Juniansoft.Orderan.XamForms;
 
-namespace Orderan.Droid
+namespace Juniansoft.Orderan.Droid
 {
     [Activity(Label = "Orderan.Droid", Icon = "@drawable/icon", Theme = "@style/MyTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity

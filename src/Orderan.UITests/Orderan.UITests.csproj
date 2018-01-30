@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{06432952-9A81-4712-A6A2-31061D3FBBA7}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>Orderan.UITests</RootNamespace>
+    <RootNamespace>Juniansoft.Orderan.UITests</RootNamespace>
     <AssemblyName>Orderan.UITests</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
   </PropertyGroup>
